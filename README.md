@@ -8,17 +8,16 @@ I'm a multidisciplinary creator passionate about **web development**, **digital 
 
 I love transforming ideas into expressive and functional digital work. My focus is on building:
 
-- 📱 **Responsive websites** that adapt seamlessly to all devices  
-- 💡 **Clear and intuitive interfaces** that enhance user experience  
-- 🎨 **Visually consistent and distinctive designs** that merge aesthetics with usability
+- 🎨 **Design** — Emotion-driven visual systems that translate social observations into digital aesthetics, blending artistic insight with intuitive, user-centered interfaces  
+- 💻 **Development** — Scalable and responsive websites using modern front-end and back-end technologies  
+- 📈 **Strategy** — Data-informed experiences that improve discoverability, engagement, and long-term growth
 
 I'm currently deepening my expertise in:
 
-- HTML5 / CSS3 / JavaScript (ES6+)
-- Git & GitHub / Command Line Workflows
-- C# / ASP.NET Core for backend development
-- SQL and relational databases
-- SEO and data analytics tools
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), responsive UI/UX design
+- **Back-End:** C#, ASP.NET Core, SQL, Python (CLI apps & data-driven logic)
+- **Version Control:** Git, GitHub, command line workflows
+- **Data & Marketing:** SEO principles, Google Analytics, Python data analysis
 
 ---
 
