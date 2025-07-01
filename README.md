@@ -15,7 +15,7 @@ I love transforming ideas into expressive and functional digital work. My focus 
 I'm currently deepening my expertise in:
 
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+), responsive UI/UX design
-- **Back-End:** C#, ASP.NET Core, SQL, Python (CLI apps & data-driven logic)
+- **Back-End:** C#, ASP.NET Core, SQL, Python (FastAPI, CLI apps & data-driven logic)
 - **Version Control:** Git, GitHub, command line workflows
 - **Data & Marketing:** SEO principles, Google Analytics, Python data analysis
 
