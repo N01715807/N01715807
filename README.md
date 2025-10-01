@@ -60,10 +60,17 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
+
 ---
-![](https://github-profile-trophy.vercel.app/?username=用户名&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=N01715807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 
 > _"Code is my new canvas, design is my native language, and culture is my lifelong project."_
