@@ -10,12 +10,6 @@ I love transforming ideas into expressive and functional digital work. My focus 
 - 💻 **Development** — Scalable and responsive websites using modern front-end and back-end technologies  
 - 📈 **Strategy** — Data-informed experiences that improve discoverability, engagement, and long-term growth
 
-## 🧠 What Inspires Me
-
-- Creating digital experiences with **cultural and social depth**  
-- Observing and expressing **urban structures, migration stories, and cross-cultural communication**  
-- Developing **useful tools and content platforms** for creators and storytellers
-
 ---
 
 ## 🌐 Socials:
