@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Li, Pengcheng
+# Hi there, I'm Li, Pengcheng
 
 I'm a multidisciplinary creator passionate about **web development**, **digital design**, and **digital marketing**. With a background that bridges art, technology, and business, I focus on crafting clean, user-centered web experiences that connect design, development, and strategy.
 
-### 💻 What I Do
+### What I Do
 
 I love transforming ideas into expressive and functional digital work. My focus is on building:
 
@@ -12,13 +12,13 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-li-5790a0298)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpc20231016@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 **Front-End**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
