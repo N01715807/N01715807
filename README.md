@@ -14,6 +14,14 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 ---
 
+## 🧠 What Inspires Me
+
+- Creating digital experiences with **cultural and social depth**  
+- Observing and expressing **urban structures, migration stories, and cross-cultural communication**  
+- Developing **useful tools and content platforms** for creators and storytellers
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-li-5790a0298)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpc20231016@gmail.com)
@@ -48,17 +56,9 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&theme=dark)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=你的GitHub用户名&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&theme=dark&layout=compact)
-
----
-
-## 🧠 What Inspires Me
-
-- Creating digital experiences with **cultural and social depth**  
-- Observing and expressing **urban structures, migration stories, and cross-cultural communication**  
-- Developing **useful tools and content platforms** for creators and storytellers
+![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
 ---
 
