@@ -53,12 +53,12 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=N01715807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
