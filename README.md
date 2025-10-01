@@ -15,7 +15,7 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pengcheng-li-5790a0298) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-li-5790a0298)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpc20231016@gmail.com)
 
 **Front-End**  
