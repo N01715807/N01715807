@@ -15,8 +15,8 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/你的linkedinID) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:你的邮箱)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pengcheng-li-5790a0298) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpc20231016@gmail.com)
 
 **Front-End**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,12 +46,6 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-I'm currently deepening my expertise in:
-
-- **Front-End:** HTML5, CSS3, JavaScript (ES6+), responsive UI/UX design
-- **Back-End:** C#, ASP.NET Core, SQL, Python (FastAPI, CLI apps & data-driven logic)
-- **Version Control:** Git, GitHub, command line workflows
-- **Data & Marketing:** SEO principles, Google Analytics, Python data analysis
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&theme=dark)<br/>
