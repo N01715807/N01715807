@@ -2,7 +2,7 @@
 
 I'm a multidisciplinary creator passionate about **web development**, **digital design**, and **digital marketing**. With a background that bridges art, technology, and business, I focus on crafting clean, user-centered web experiences that connect design, development, and strategy.
 
-## 💻 What I Do
+### 💻 What I Do
 
 I love transforming ideas into expressive and functional digital work. My focus is on building:
 
@@ -58,7 +58,7 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=N01715807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
