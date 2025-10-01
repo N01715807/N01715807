@@ -61,10 +61,9 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N01715807/N01715807/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N01715807/N01715807/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/N01715807/N01715807/output/github-snake.svg" />
-</picture>
+![](https://github-profile-trophy.vercel.app/?username=用户名&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=N01715807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 > _"Code is my new canvas, design is my native language, and culture is my lifelong project."_
