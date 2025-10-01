@@ -16,6 +16,9 @@ I love transforming ideas into expressive and functional digital work. My focus 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-li-5790a0298)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lpc20231016@gmail.com)
 
+---
+
+## 💻 Tech Stack
 **Front-End**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,18 +51,15 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=N01715807&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
----
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=N01715807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 
 > _"Code is my new canvas, design is my native language, and culture is my lifelong project."_
