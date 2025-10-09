@@ -53,10 +53,10 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 **Design & Creative**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713.svg?style=for-the-badge&logo=houdini&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Houdini](https://img.shields.io/badge/Houdini-FF4713.svg?style=for-the-badge&logo=houdini&logoColor=white)
 
 ---
 
