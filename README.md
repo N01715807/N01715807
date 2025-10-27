@@ -62,10 +62,10 @@ I love transforming ideas into expressive and functional digital work. My focus 
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
 
-![status](https://img.shields.io/badge/Currently_Building-Language_Map-blue)
-![status](https://img.shields.io/badge/Location-Canada-red)
+![Visitors](https://komarev.com/ghpvc/?username=你的用户名&color=brightgreen)
 
 ![snake gif](https://raw.githubusercontent.com/N01715807/N01715807/output/github-contribution-grid-snake.svg)
 
