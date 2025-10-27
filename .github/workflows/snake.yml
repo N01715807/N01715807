@@ -18,6 +18,7 @@ jobs:
           github_user_name: N01715807
           outputs: |
             dist/github-contribution-grid-snake.svg
+            palette: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
