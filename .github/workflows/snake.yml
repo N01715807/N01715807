@@ -1,8 +1,13 @@
 name: Generate Snake
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]   # 每天 00:00 UTC 自动生成
+  schedule: [{ cron: "0 0 * * *" }]   # 每天 00:00 UTC
   workflow_dispatch:                  # 允许手动运行
-  push: { branches: ["main"] }
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write                     # ← 必须，有写分支权限
 
 jobs:
   build:
@@ -13,10 +18,11 @@ jobs:
           github_user_name: N01715807
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 默认就有
