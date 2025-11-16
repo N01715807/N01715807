@@ -33,7 +33,6 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -68,5 +67,3 @@ I love transforming ideas into expressive and functional digital work. My focus 
 ![Visitors](https://komarev.com/ghpvc/?username=N01715807&color=brightgreen)
 
 ![snake gif](https://raw.githubusercontent.com/N01715807/N01715807/output/github-contribution-grid-snake.svg)
-
-> _"Code is my new canvas, design is my native language, and culture is my lifelong project."_
