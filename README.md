@@ -2,14 +2,6 @@
 
 I'm a multidisciplinary creator passionate about **web development**, **digital design**, and **digital marketing**. With a background that bridges art, technology, and business, I focus on crafting clean, user-centered web experiences that connect design, development, and strategy.
 
-### What I Do
-
-I love transforming ideas into expressive and functional digital work. My focus is on building:
-
-- 🎨 **Design** — Emotion-driven visual systems that translate social observations into digital aesthetics, blending artistic insight with intuitive, user-centered interfaces  
-- 💻 **Development** — Scalable and responsive websites using modern front-end and back-end technologies  
-- 📈 **Strategy** — Data-informed experiences that improve discoverability, engagement, and long-term growth
-
 ---
 
 ## Socials:
