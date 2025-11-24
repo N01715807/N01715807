@@ -2,7 +2,6 @@
 
 I'm a multidisciplinary creator passionate about **web development**, **digital design**, and **digital marketing**. With a background that bridges art, technology, and business, I focus on crafting clean, user-centered web experiences that connect design, development, and strategy.
 
----
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pengcheng-li-5790a0298)
