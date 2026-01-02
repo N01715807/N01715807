@@ -46,11 +46,4 @@ I'm a multidisciplinary creator passionate about **Full-stack development**, **d
 
 ---
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=N01715807&theme=dark)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=N01715807&theme=dark&layout=compact)
-
-![Visitors](https://komarev.com/ghpvc/?username=N01715807&color=brightgreen)
-
 ![snake gif](https://raw.githubusercontent.com/N01715807/N01715807/output/github-contribution-grid-snake.svg)
