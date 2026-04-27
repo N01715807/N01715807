@@ -1,9 +1,6 @@
 # Hi there, I'm Li, Pengcheng
 
-I’m a developer focused on growth, performance, and user experience.
-My background combines web development, analytics, digital marketing, and visual design — allowing me to build products that are not only functional, but clear, engaging, and conversion-driven.
-I’ve worked on websites, landing pages, user flows, and tracking systems with a strong focus on usability, design quality, and measurable business results.
-I enjoy turning ideas into polished digital experiences through thoughtful design, clean code, and continuous optimization.
+I build products, websites, and systems that turn ideas into polished user experiences.
 
 
 ## Socials:
